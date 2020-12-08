@@ -1,5 +1,5 @@
 # ReadMe
-Hello, this is me.
+Hello, this is me, goofy grin and all.
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/willemodendaal/ReadMe/main/images/me2.jpg" />
