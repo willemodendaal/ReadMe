@@ -1,6 +1,9 @@
 # ReadMe
 Hello, this is me.
-![photo](https://raw.githubusercontent.com/willemodendaal/ReadMe/main/images/me2.jpg)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/willemodendaal/ReadMe/main/images/me2.jpg" />
+</p>
 
 I'm a software developer. I started coding at age 10 when I wanted to play Leisure Suit Larry, but my dad said "No" and showed me GW Basic instead. And that changed my life.
 
